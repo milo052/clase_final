@@ -15,7 +15,7 @@ if (topping >= "18"){
    "entonces entras bajo tu responsabilidad"))
 
 console.log(precios)
-   var mayorDeEda= helado+edad;
+   var mayorDeEda= mayor+edad;
 
 
 
